@@ -18,7 +18,7 @@ Mobile cart abandonment rates in fashion e-commerce are often driven by:
 3.  **Navigation Clutter:** Poor information architecture leading to decision paralysis.
 
 ## Methodology
-I employed a data-driven design process to tackle these issues:
+I employed a UI blocker driven design process to tackle these issues:
 
 ### 1. Competitive Analysis
 * **Benchmarked Apps:** Myntra, H&M, Zara.
@@ -37,23 +37,22 @@ I employed a data-driven design process to tackle these issues:
 
 ## The Solution (Prototype)
 
-[Link to Interactive Figma Prototype](YOUR_FIGMA_LINK_HERE)
+**Deck**: 
 
-*(Optional: Insert a GIF or Screenshot of your prototype here)*
-![App Preview](path/to/your/image.png)
+
+
 
 ---
 
 ## Key Results
 Based on the optimized flow design:
 * **Time-to-Purchase:** Reduced by ~20%.
-* **Clicks-to-Checkout:** Reduced from 8 clicks to 5 clicks.
+* **Clicks-to-Checkout:** Reduced from - clicks to - clicks.
 * **UX Improvements:** Eliminated 2 major friction points in the sign-up process.
 
 ---
 
 ## Tools & Skills Used
-* **Design:** Figma
 * **Research:** User Journey Mapping, Root Cause Analysis (RCA)
 * **Analytics:** Funnel Analysis, CRO (Conversion Rate Optimization)
 * **Strategy:** Friction Point Identification
