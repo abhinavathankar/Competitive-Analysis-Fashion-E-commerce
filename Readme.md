@@ -1,9 +1,5 @@
 # Fashion E-Commerce User Journey Optimization
 
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Tool](https://img.shields.io/badge/Tool-Figma-gray)
-![Focus](https://img.shields.io/badge/Focus-CRO_&_UX-blue)
-
 ## Overview
 This project focuses on optimizing the **mobile onboarding and checkout funnels** for fashion e-commerce platforms. Through a competitive analysis of industry leaders (**Myntra, H&M, Zara**), I identified critical friction points causing user drop-off.
 
@@ -38,8 +34,6 @@ I employed a UI blocker driven design process to tackle these issues:
 ## The Solution (Prototype)
 
 **Deck**: 
-
-
 
 
 ---
